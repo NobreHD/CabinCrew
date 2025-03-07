@@ -1,0 +1,23 @@
+-
+- Causas:
+	- Curtos-circuitos;
+	- Atos incorretos de passageiros ou tripulação;
+	- Produtos perigosos na cabine ou em compartimentos de carga;
+-
+- Sinais:
+	- Vapores ou cheiros invulgares;
+	- Mau funcionamento elétrico;
+	- Ruídos como estalos ou crepitações;
+	- Pontos quentes nas paredes laterais, pisos e painéis00
+-
+- Design preventivo:
+	- Todos os assentos são feitos de material antifogo;
+	- #Lavabos são equipados com detetores de fumo e extintores de incêndio automáticos apontados ao caixote do lixo;
+	- A #Galley e os caixotes do lixo são projetados para conter o fogo;
+-
+- Prevenção:
+	- Realizar uma verificação pré-voo completa dos fornos e #Galley para garantir que estejam limpos e a funcionar corretamente;
+	- Assegurar que todos os passageiros e tripulantes cumprem a política de **NÃO FUMAR** em todas as fases do voo;
+	- Monitorizar os #Lavabos, #Galley e #Cabine constantemente;
+	- Rever os procedimentos de combate a incêndio com frequência;
+	- Correta verificação do equipamento de combate a incêndios na verificação de segurança;

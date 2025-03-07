@@ -1,0 +1,11 @@
+-
+- Normalmente contem:
+	- Caixote do lixo;
+	- Máquinas de café;
+	- Fornos;
+	- Micro-ondas;
+	- Frigoríficos ou Chillers;
+	- Boiler;
+	- Lâmpadas;
+	- Triturador do lixo;
+	- Outros equipamentos eletrônicos;
