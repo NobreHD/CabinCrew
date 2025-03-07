@@ -8,7 +8,7 @@
 	- Vapores ou cheiros invulgares;
 	- Mau funcionamento elétrico;
 	- Ruídos como estalos ou crepitações;
-	- Pontos quentes nas paredes laterais, pisos e painéis00
+	- Pontos quentes nas paredes laterais, pisos e painéis
 -
 - Design preventivo:
 	- Todos os assentos são feitos de material antifogo;
