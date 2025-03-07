@@ -1,10 +1,10 @@
-# Notas de Aviação - Base de Conhecimento Logseq
+# Notas de Aviação para Tripulantes de Cabine
 
-Este repositório contém uma coleção de notas relacionadas à aviação, organizadas como uma base de conhecimento Logseq.
+Este repositório contém uma coleção de notas de aviação, especificamente direcionadas para o treinamento e conhecimento de tripulantes de cabine.
 
 ## Propósito
 
-Esta base de conhecimento serve como um repositório pessoal de informações relacionadas à aviação, compiladas e organizadas usando o Logseq. Destina-se a ser um recurso abrangente para entender vários aspectos das operações de voo e sistemas de aeronaves.
+Esta base de conhecimento foi criada para servir como um recurso de estudo e referência para tripulantes de cabine, utilizando o Logseq para organizar e conectar informações relevantes.
 
 ## Uso
 
